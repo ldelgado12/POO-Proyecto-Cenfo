@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"delgado.luis.bl","l":"Albun"},{"p":"delgado.luis.bl","l":"Artista"},{"p":"delgado.luis.bl","l":"Cancion"},{"p":"delgado.luis.bl","l":"Compositor"},{"p":"delgado.luis.bl","l":"ListaReproduccion"},{"p":"delgado.luis.ui","l":"Main"},{"p":"delgado.luis.bl","l":"Usuario"},{"p":"delgado.luis.bl","l":"UsuarioAdm"},{"p":"delgado.luis.bl","l":"VentaCanciones"}]
